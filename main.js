@@ -1,11 +1,11 @@
 function gotonewyork(){
     window.location="New_york.html";
-}function gotoworld(){
+function gotoworld(){
     window.location="world.html";
 }
 function logout(){
     window.location="index.html";
 }
-}function gotosolution(){
+function gotosolution(){
     window.location="solution.html";
 }
