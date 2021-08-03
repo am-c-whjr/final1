@@ -1,5 +1,6 @@
 function gotonewyork(){
     window.location="New_york.html";
+}
 function gotoworld(){
     window.location="world.html";
 }
